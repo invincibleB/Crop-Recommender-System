@@ -1,12 +1,16 @@
-pip install pandas
+# This file is used by pip to install required python packages
+# Usage: pip install -r requirements.txt
 
-pip install numpy 
+# Flask Framework
 
-pip install scikit-learn==0.23.1
+ pandas=1.5.3
 
-pip install flask
+numpy=1.24.2
 
-pip install matplotlib
+scikit-learn==0.23.1
 
+flask=2.2.3
 
-python 3.8
+matplotlib=3.7.1
+
+python=3.9.1
